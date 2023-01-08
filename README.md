@@ -66,9 +66,3 @@ Below are the learning machine models used and their findings.
 - The recall for low risk is 94%
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%206.png" width=50% height=25%>
-
-
-## Summary
-
-
-
