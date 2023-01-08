@@ -18,29 +18,24 @@ Below are the learning machine models used and their findings.
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%201.png" width=50% height=25%>
 
 ### SMOTE Oversampling
-
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%202.png" width=60% height=50%>
-
 - The balanced accuracy score is 62.2%
 - The precision for high risk is 1%
 - The precision for low risk is 100%
 - The recall for high risk is 55%
 - The recall for low risk is 69%
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%202.png" width=50% height=25%>
 
 ### Cluster Centroids Undersampling
-
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%203.png" width=60% height=50%>
-
 - The balanced accuracy score is 50%
 - The precision for high risk is 0%
 - The precision for low risk is 100%
 - The recall for high risk is 48%
 - The recall for low risk is 53%
 
-### SMOTEEN Combination Sampling
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%203.png" width=50% height=25%>
 
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%204.png" width=60% height=50%>
+### SMOTEEN Combination Sampling
 
 - The balanced accuracy score is 62.6%
 - The precision for high risk is 1%
@@ -48,9 +43,9 @@ Below are the learning machine models used and their findings.
 - The recall for high risk is 63%
 - The recall for low risk is 62%
 
-### Balanced Random Forest Classifier
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%204.png" width=50% height=25%>
 
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%205.png" width=60% height=50%>
+### Balanced Random Forest Classifier
 
 - The balanced accuracy score is 78.8%
 - The precision for high risk is 3%
@@ -58,15 +53,19 @@ Below are the learning machine models used and their findings.
 - The recall for high risk is 70%
 - The recall for low risk is 87%
 
-### Easy Ensemble AdaBoost Classifier
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%205.png" width=50% height=25%>
 
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%206.png" width=60% height=50%>
+### Easy Ensemble AdaBoost Classifier
 
 - The balanced accuracy score is 93.1%
 - The precision for high risk is 9%
 - The precision for low risk is 100%
 - The recall for high risk is 92%
 - The recall for low risk is 94%
+
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%206.png" width=50% height=25%>
+
+
 
 ## Summary
 
