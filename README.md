@@ -8,15 +8,14 @@ For this project, we will use supervised machine learning algorithms to predict 
 
 Below are the learning machine models used and their findings.
 
-### Naive Random Oversampling
-
-<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%201.png" width=60% height=50%>
-
+### Naive Random Oversampling:
 - The balanced accuracy score is 61.7%
 - The precision for high risk is 1%
 - The precision for low risk is 100%
 - The recall for high risk is 56%
 - The recall for low risk is 67%
+
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%201.png" width=50% height=25%>
 
 ### SMOTE Oversampling
 
