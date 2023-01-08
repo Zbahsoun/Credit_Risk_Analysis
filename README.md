@@ -10,51 +10,63 @@ Below are the learning machine models used and their findings.
 
 ### Naive Random Oversampling
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%201.png" width=60% height=50%>
+
 - The balanced accuracy score is 61.7%
 - The precision for high risk is 1%
-- The recall for high risk is 56%
 - The precision for low risk is 100%
+- The recall for high risk is 56%
 - The recall for low risk is 67%
 
 ### SMOTE Oversampling
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%202.png" width=60% height=50%>
+
 - The balanced accuracy score is 62.2%
 - The precision for high risk is 1%
-- The recall for high risk is 55%
 - The precision for low risk is 100%
+- The recall for high risk is 55%
 - The recall for low risk is 69%
 
 
 ### Cluster Centroids Undersampling
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%203.png" width=60% height=50%>
+
 - The balanced accuracy score is 50%
 - The precision for high risk is 0%
-- The recall for high risk is 48%
 - The precision for low risk is 100%
+- The recall for high risk is 48%
 - The recall for low risk is 53%
 
 ### SMOTEEN Combination Sampling
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%204.png" width=60% height=50%>
+
 - The balanced accuracy score is 62.6%
 - The precision for high risk is 1%
-- The recall for high risk is 63%
 - The precision for low risk is 100%
+- The recall for high risk is 63%
 - The recall for low risk is 62%
 
 ### Balanced Random Forest Classifier
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%205.png" width=60% height=50%>
+
 - The balanced accuracy score is 78.8%
 - The precision for high risk is 3%
-- The recall for high risk is 70%
 - The precision for low risk is 100%
+- The recall for high risk is 70%
 - The recall for low risk is 87%
 
 ### Easy Ensemble AdaBoost Classifier
 
+<img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%206.png" width=60% height=50%>
+
 - The balanced accuracy score is 93.1%
 - The precision for high risk is 9%
-- The recall for high risk is 92%
 - The precision for low risk is 100%
+- The recall for high risk is 92%
 - The recall for low risk is 94%
 
 ## Summary
