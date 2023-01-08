@@ -17,7 +17,7 @@ Below are the learning machine models used and their findings.
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%201.png" width=50% height=25%>
 
-### SMOTE Oversampling
+### SMOTE Oversampling:
 - The balanced accuracy score is 62.2%
 - The precision for high risk is 1%
 - The precision for low risk is 100%
@@ -26,7 +26,7 @@ Below are the learning machine models used and their findings.
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%202.png" width=50% height=25%>
 
-### Cluster Centroids Undersampling
+### Cluster Centroids Undersampling:
 - The balanced accuracy score is 50%
 - The precision for high risk is 0%
 - The precision for low risk is 100%
@@ -35,8 +35,7 @@ Below are the learning machine models used and their findings.
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%203.png" width=50% height=25%>
 
-### SMOTEEN Combination Sampling
-
+### SMOTEEN Combination Sampling:
 - The balanced accuracy score is 62.6%
 - The precision for high risk is 1%
 - The precision for low risk is 100%
@@ -45,8 +44,7 @@ Below are the learning machine models used and their findings.
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%204.png" width=50% height=25%>
 
-### Balanced Random Forest Classifier
-
+### Balanced Random Forest Classifier:
 - The balanced accuracy score is 78.8%
 - The precision for high risk is 3%
 - The precision for low risk is 100%
@@ -55,8 +53,7 @@ Below are the learning machine models used and their findings.
 
 <img src="https://github.com/Zbahsoun/Credit_Risk_Analysis/blob/main/Models-Summary/Summary%205.png" width=50% height=25%>
 
-### Easy Ensemble AdaBoost Classifier
-
+### Easy Ensemble AdaBoost Classifier:
 - The balanced accuracy score is 93.1%
 - The precision for high risk is 9%
 - The precision for low risk is 100%
